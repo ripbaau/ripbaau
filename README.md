@@ -54,23 +54,22 @@
 # <img src="https://cdn3.emoji.gg/emojis/42684-star-r.gif" width ="25"><b>  𝓢ᴏᴄɪᴀʟ . . .</b> <img src="https://cdn3.emoji.gg/emojis/42684-star-r.gif" width ="25"><b>
 <br>
 
-  <!-- Fila 1 -->
+  <!-- Fila 1 | SPOTIFY Y DISCORD-->
   <a href="https://open.spotify.com/user/8goonmmjbdld0lue9r73fkgkq">
-    <img src="https://img.shields.io/badge/Spotify-%231ED760?style=for-the-badge&logo=Spotify&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/cmntryluv.-%231ED760?style=for-the-badge&logo=Spotify&logoColor=white" width="200">
   </a>
-  &nbsp;&nbsp; <!-- Espacio entre badges -->
-  <a href="https://discord.gg/WH2P27XGDy">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" width="200">
+  &nbsp;&nbsp; <!-- Espacio entre badges --> 
+    <img src="https://img.shields.io/badge/@cmntryluv.-%235865F2?style=for-the-badge&logo=discord&logoColor=white" width="200">
   </a>
   <br><br> <!-- Salto de línea para la siguiente fila -->
 
-  <!-- Fila 2 -->
+  <!-- Fila 2 | INSTAGRAM Y YOUTUBE -->
   <a href="https://www.instagram.com/cmntryluv/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/cmtryluv-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width="200">
   </a>
   &nbsp;&nbsp; <!-- Espacio entre badges -->
   <a href="https://youtube.com/@07ٴٴ">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/cmtryluv!-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" width="200">
   </a>
 </p>
 
