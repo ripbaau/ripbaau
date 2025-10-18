@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/cmntryluv.-%231ED760?style=for-the-badge&logo=Spotify&logoColor=white" width="200">
   </a>
   &nbsp;&nbsp; <!-- Espacio entre badges --> 
-    <img src="https://img.shields.io/badge/@cmntryluv.-%235865F2?style=for-the-badge&logo=discord&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/cmntryluv.-%235865F2?style=for-the-badge&logo=discord&logoColor=white" width="200">
   </a>
   <br><br> <!-- Salto de línea para la siguiente fila -->
 
