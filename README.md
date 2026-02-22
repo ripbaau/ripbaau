@@ -56,20 +56,20 @@
 
   <!-- Fila 1 | SPOTIFY Y DISCORD-->
   <a href="https://open.spotify.com/user/8goonmmjbdld0lue9r73fkgkq">
-    <img src="https://img.shields.io/badge/cmntryluv.-%231ED760?style=for-the-badge&logo=Spotify&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/sarkophago-%231ED760?style=for-the-badge&logo=Spotify&logoColor=white" width="200">
   </a>
   &nbsp;&nbsp; <!-- Espacio entre badges --> 
-    <img src="https://img.shields.io/badge/cmntryluv.-%235865F2?style=for-the-badge&logo=discord&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/sarkophago-%235865F2?style=for-the-badge&logo=discord&logoColor=white" width="200">
   </a>
   <br><br> <!-- Salto de línea para la siguiente fila -->
 
   <!-- Fila 2 | INSTAGRAM Y YOUTUBE -->
-  <a href="https://www.instagram.com/cmntryluv/">
-    <img src="https://img.shields.io/badge/cmtryluv-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width="200">
+  <a href="https://www.instagram.com/warowm/">
+    <img src="https://img.shields.io/badge/sarkophago-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width="200">
   </a>
   &nbsp;&nbsp; <!-- Espacio entre badges -->
   <a href="https://youtube.com/@07ٴٴ">
-    <img src="https://img.shields.io/badge/cmtryluv!-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/sarkophago-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" width="200">
   </a>
 </p>
 
